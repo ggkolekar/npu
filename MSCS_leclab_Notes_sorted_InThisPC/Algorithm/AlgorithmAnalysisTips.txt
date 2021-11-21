@@ -1,0 +1,26 @@
+Algoritm Analysis tips
+
+
+Worst=O(n!),O(c^n),O(n^c)
+Bad=O(nlogn)
+Fair=O(n)
+Good= O(logn)
+best=O(1)
+
+1)O(1)=simple function e.g. C swap()
+       Loop=e.g.incresed upto constant
+2)O(n)=# two nested loop with 1 loop icre/decre by const. and 1 loop started from/upto n=> O(1)* O(n)=> O(n)->e.g.a) outside loop(inceased upto n & increased by c)+innerloop (increased upto c) e.g.b)outside loop(start with n & decreased by c)+ inner loop (increased upto c)     
+      # function call=in loop= n*O(n)
+3)O(n^2)=# nested loop= outrloop(i incresed upto n i++)+inloop(j incresed upto n j++)
+        # function call =O(i) i.e sum of numbers = O(n^2)
+       # which loop= nested loop=
+        ousloop(i incresed by 2 upto N)           //O(N)
+       + insloop(j increased by 2 upto M)//O(M)-> fun call in insloop          //O(N)
+4) O(M +N)=> seperate=>loop(+c->M i++)+loop(+c-> N j++) //O(M)+O(N)=> O(M+N)=>O(max(M,N))=> if M==N //O(2*N)=O(N)
+5) O(log N)=> 1loop(*c -> N i++) +loop2(/=c -> start with N) //O(log N)
+6)O (loglog N)=>loop1(pow(i,c)->n)+loop2(start from n->i=fun(i))=>O(loglog N)
+7) O(N*log N)=> ousloop(i strt n/2->+->n) innsloop(j*2-> n)
+8) O(sqrt(N))=> loop(i=1,s=1,s<=n,i++,s+=1)      
+
+
+

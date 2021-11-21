@@ -1,0 +1,19 @@
+Null= for primary key not acceptable
+null will be available in some time period
+
+
+ query 20 =>on  derived number
+
+And is strict
+or is relaxed
+
+query 26 => 
+
+count * for row
+
+e' = superwise of e
+e'' is superwise of e'
+
+
+base table=> for views
+

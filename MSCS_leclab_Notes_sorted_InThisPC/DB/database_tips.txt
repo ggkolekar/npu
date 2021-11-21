@@ -1,0 +1,26 @@
+Database tips=>
+1)create table XYZ(
+  col1name datatype, 
+  col2name datatype,
+  col3name datatype, 
+  constarint constraintname key(col1),
+  constarint constraintname unique(col2,col3));
+
+2)insert into table values(value1, value2, value3,...)
+3)select * from table
+
+
+
+4)select col1,col2,col3 from table where col1 = 'abc';
+      ^              ^    ^     ^     ^
+    space required
+5)select col1,col2,col3 floor(equation, 1) as "abc" from table;
+5)select function1(col1) as "abc",floor(function2,0) as "ABC" from table;                  ^space not                                           required
+6)select col1+ calculation as “alias1”, col2 + calculations as “alias2” from table where column= value;
+
+
+to quit=> ctrl-c -- exit!
+Aborted 
+[19615kg@npu1 ~]$ mysql -u 19615kg -p
+changeme
+use 19615kg

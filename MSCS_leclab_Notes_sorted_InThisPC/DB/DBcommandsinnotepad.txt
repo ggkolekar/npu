@@ -1,0 +1,30 @@
+SELECT lname, fname
+    FROM Customer C inner join Account A
+    on C.cust_id = A.cust_id
+    WHERE A.balance > ALL(SELECT balance
+                          FROM Account
+                         WHERE balance < 100);
+
+
+SELECT DISTINCT account_id
+FROM Account
+WHERE account_id IN (SELECT account_id
+                     FROM Account, Transaction
+                      WHERE cust_id=1 AND txn_type_id=DBT);
+SELECT DISTINCT account_id
+FROM Account A inner join Transaction T
+WHERE A.account_id = T.account_id IN (SELECT account_id
+                                      FROM Account, Transaction
+                                        WHERE cust_id=1 AND txn_type_id=DBT);
+
+
+SELECT *
+FROM Account A 
+inner join Transaction T
+On A.cust_id = T.cust_id
+WHERE A.account_id = T.account_id IN (SELECT account_id
+                                      FROM Account, Transaction
+                                      WHERE cust_id=1 AND txn_type_id=DBT);
+
+
+

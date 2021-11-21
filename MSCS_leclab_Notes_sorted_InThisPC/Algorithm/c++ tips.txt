@@ -1,0 +1,9 @@
+C++ tips=>
+
+read data with=> scanf
+parameters=>
+= whitespace character=> include spaces, newline and tab characters
+= Non whitespace char, except format specifier(with %)=> 
+= format specifier=> %[*][width][length]specifier=> it defines which char r extracted
+
+

@@ -1,0 +1,49 @@
+ Quiz retake
+  ==> more students than I expected got lower than 80 score
+  
+Al lec notes
+==> 100 ==> The best you can get is 80
+- Quiz makeup
+  ==> the 2nd week
+  ==> if you have a reason and informed me ahead of time
+- Quiz time
+
+  + midterm and final exam: > 100  multiple choice questions
+                            one or two Q&A (quiz)
+                           => within 2 and half hours
+  + Interview
+  ==> Important, practices
+
+
+1)for(int j J<M j++) O(M)
+a=3
+
+(j=1 j<N j^2) O(B)=> O(loglogN)
+            power
+    (i  I<N I*2) O(ligN)
+
+
+O(M)+O(loglogN)+O(log N)
+O(M + loglogN +log N
+O(M+log(logN+N)
+O (M+log(log(log N^N)
+
+
+2)(j=1; j<M; j++)//O(N)*O(N)=O(N^2)
+(j=i+1; j<N; j++)
+
+         O(loglog N)+
+
+n^2+logn+n+2^n
+=>n^2+ logn+2^n
+2^n    
+
+n^3+n^2+lgn+n+2^n
+n^3+n*lgn+n+2^n
+n^3+2^n
+2^n
+o(2^n)
+
+
+
+

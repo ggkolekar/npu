@@ -1,0 +1,49 @@
+Links from npu
+Algorithm=>
+wk7
+https://npu85.npu.edu/~henry/npu/classes/algorithm/tutorialpoints_dsa/slide/greedy_algorithms.html
+
+quiz=> https://npu85.npu.edu/~henry/npu/classes/algorithm/week1/quiz/h24a1h0a/exam/00000.html
+computational logic=> https://npu85.npu.edu/~henry/npu/classes/intro_software/logic/slide/index_slide.html
+https://npu85.npu.edu/~henry/npu/classes/intro_software/control_flow/slide/exercise_control_flow.html
+Exersices=>https://npu85.npu.edu/~henry/npu/classes/algorithm/growth_of_func/slide/exercise_growth_of_func.html
+  
+https://cs50.harvard.edu/college/2020/spring/weeks/4/
+
+https://npu85.npu.edu/~henry/npu/classes/intro_software/control_flow/slide/exercise_control_flow.html
+
+ COurse list=> https://npu85.npu.edu/~henry/npu/classes/index_course.html
+Type of member function=> https://npu85.npu.edu/~henry/npu/classes/introjava/java_class/slide/javaMemFunc.html
+Simplified object oriented process=> https://npu85.npu.edu/~henry/npu/classes/oo/uml/slide/simplified_oo_process.html
+
+
+https://npu85.npu.edu/~henry/npu/classes/python/week1/syllabus.html
+https://npu85.npu.edu/~henry/npu/classes/algorithm/geeksforgeeks/slide/analyze_loop.html
+Basic concept=> https://npu85.npu.edu/~henry/npu/classes/intro_software/logic/slide/index_slide.html
+Ex Growth function=> https://npu85.npu.edu/~henry/npu/classes/algorithm/growth_of_func/slide/exercise_growth_of_func.html
+Ex control flow=> https://npu85.npu.edu/~henry/npu/classes/intro_software/control_flow/slide/exercise_control_flow.htm
+veriable scope=> https://npu85.npu.edu/~henry/npu/classes/algorithm/tutorialpoints_daa/slide/variable_scope.html#fp
+
+Big-O=>
+https://npu85.npu.edu/~henry/npu/classes/algorithm/tutorialpoints/slide/index_slide.html
+https://npu85.npu.edu/~henry/npu/classes/algorithm/growth_of_func/slide/big_o.html#o_math
+https://npu85.npu.edu/~henry/npu/classes/algorithm/tutorialpoints/slide/index_slide.html
+https://npu85.npu.edu/~henry/npu/classes/algorithm/growth_of_func/slide/big_o.html#o_math
+https://npu85.npu.edu/~henry/npu/classes/algorithm/growth_of_func/slide/big_o.html#o_math
+https://npu85.npu.edu/~henry/npu/classes/algorithm/tutorialpoints/slide/index_slide.html
+
+
+Design strategy=>
+https://npu85.npu.edu/~henry/npu/classes/algorithm/tutorialpoints_daa/slide/binary_search.html
+https://npu85.npu.edu/~henry/npu/classes/algorithm/tutorialpoints_dsa/slide/merge_sort_algorithm.html
+https://npu85.npu.edu/~henry/npu/classes/algorithm/tutorialpoints/slide/divive_conquer_compare.html
+
+hw5=>
+
+
+
+Python=>
+CS512=> https://npu85.npu.edu/~henry/npu/classes/oo/week1/syllabus.html
+computational logic=> https://npu85.npu.edu/~henry/npu/classes/intro_software/logic/slide/index_slide.html
+  from ^ link => 3 python tutorial=> CS531=> https://npu85.npu.edu/~henry/npu/classes/python/week1/syllabus.html
+
